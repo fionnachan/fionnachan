@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🔭 I’m currently working as a _frontend developer who also makes a lot of UI decisions_.<br>
-I prefer working in a small team where people have cross-domain knowledge. This kind of setup allows teams to easily close the communication gap and produce quality work at high efficiency.
+I prefer working in a small team where people have cross-domain knowledge. This kind of setup allows teams to easily close the communication gap and produce quality work with high efficiency.
 
 #### 🌱 I’m currently learning about _blockchain_.<br>
 In my spare time, I enjoy reading whitepapers and getting frustrated by the complexity.
