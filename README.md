@@ -20,7 +20,7 @@ I prefer working in a small team where people have cross-domain knowledge. This 
 #### 🌱 I’m currently learning about _blockchain_.<br>
 In my spare time, I enjoy reading whitepapers and getting frustrated by the complexity.
 
-![fionnachan's GitHub Stats](https://github-readme-stats.codestackr.vercel.app/api?username=fionnachan&show_icons=true&hide_border=true&count_private=true)
+![fionnachan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fionnachan&show_icons=true&hide_border=true&count_private=true)
 
 #### 📫 How to reach me:
 Medium [@fionnachan](https://medium.com/@fionnachan)<br>
