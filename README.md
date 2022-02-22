@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### 🔭 I’m currently working as a _frontend developer who also makes a lot of UI decisions_.<br>
-I prefer working in a small team where people have cross-domain knowledge. This kind of setup allows teams to easily close the communication gap and produce quality work with high efficiency.
+#### 🌱 I'm currently learning everything about Algorand
+...from writing smart contracts, to the inner workings of the sdks, and to the core code. Let's say I've become a little addicted since receiving my first Algos from Coinbase Earn. 🙃
 
-#### 🌱 I’m currently learning about _blockchain_.<br>
-In my spare time, I enjoy reading whitepapers and getting frustrated by the complexity.
+#### 🔭 I’m currently working on
+...various projects on Algorand. Blockchain brings back good ol' memories of the 2000s. I was too young to build anything substantial back then but this time I'm determined to give it my all. 😎
+
 
 ![fionnachan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fionnachan&show_icons=true&hide_border=true&count_private=true)
 
