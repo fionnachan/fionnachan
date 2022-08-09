@@ -21,6 +21,7 @@ As a frontend dev by trade, I'm comfortable with
 - JavaScript: my first programming lang at 8 - it is special to me!
 - TypeScript: easier to read & maintain the code
 - React with Hooks: I didn't like React before Hooks!
+- Cypress: an e2e test a day keeps the bugs 🐛 away 
 - git: using it from the command line, not the GUI
 - building reusable frontend component libraries from scratch
 - design UX of webapps
